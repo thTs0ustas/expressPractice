@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+h1 { color: #f83489 }
+
+.error {
+  text-align: justify;
+  text-decoration: underline;
+  color: #f83489;
+  background-color: antiquewhite;
+}
